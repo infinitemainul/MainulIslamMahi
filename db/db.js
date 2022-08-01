@@ -3,14 +3,14 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Vinay Somawat. I’m currently working as a Software Engineer at Biofourmis India specialized in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
-				"I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
-				"I love to read, listen to music, and travel.",
+				"This is Mahi. I’m currently looking for a master's position specialized in Data Science/Machine Learning. I completed my Bachelor of Science in Computer Science & Enginnering from American International University-Bangladesh (AIUB).",
+				"I set a goal to build my career as a Data Scientist and Machine Learning Engineer in 2023. My research has progressed and evolved into new projects driven by the results of my experimentation. I'm a optimistic and curious human besides being an OpenSource enthusiast. I want to gain experience in delivering solutions for exciting problems in the startup and industry space.",
+				"I love to watch movies and travel.",
 			],
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: mahimainul84@gmail.com",
+				"If you would like to get in touch with me, be it for exploring a technology, research, or to just say hi, feel free to send me an email. My email address is: mahimainul84@gmail.com",
 			],
 		},
 	},
@@ -74,86 +74,71 @@ export default {
 		web: [
 			{
 				projectName: "Hospital Management System",
-				image: "images/programmingdiaries.png",
+				image: "images/HMS.png",
 				summary:
-					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-				preview: "https://programmingdiaries.herokuapp.com/",
+					"It is a hospital management system which is used to manage the hospital's patients and doctors. This is the final term project of web technologies course. ",
+				preview: "https://github.com/MatrixGlitch-Hridoy/HospitalManagementSystem",
 				techStack: [
-					"Django",
-					"SQLite",
-					"Bootstrap",
 					"JavaScript",
-					"Heroku",
+					"PHP",
+					"HTML5",
+					"CSS3",					
+					"MySQL",
+					"AJAX",
 				],
-			},
-			{
-				projectName: "Find Your Bank",
-				image: "images/findyourbank.png",
-				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-			},
-			{
-				projectName: "Web Portfolio",
-				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-			{
-				projectName: "Resume Builder",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 		],
 		software: [
 			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
+				projectName: "Pharmacy",
+				image: "images/PMS.png",
 				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+					"Pharmacy is a desktop application which is used to manage the pharmacy's inventory and sales.",
+				preview: "https://github.com/infinitemainul/C-Sharp/tree/main/CSPharmaSln",
+				techStack: ["C#", ".NET 4.5", "SQL Server",],
+			},
+			{
+				projectName: "Apartment Reservation System",
+				image: "images/ARMS.png",
+				summary:
+					" Apartment Reservation System is a desktop application based on C# and .NET framework. It is final term project of C# course. ",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
+					"https://github.com/infinitemainul/C-Sharp/tree/main/Appartment%20Rental%20Management%20System",
+				techStack: ["C#", ".Net 4.5", "SQL Server",],
 			},
 			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
+				projectName: "Restaurant",
+				image: "images/Res.png",
 				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
+					"Restaurant is a dynamic console based application for restaurant's activities including restaurant owner, customer, and manager login.",
+				preview: "https://github.com/infinitemainul/Java/tree/main/food",
+				techStack: ["Java", "OOP"],
 			},
 		],
 		android: [
 			{
-				projectName: "NITW-CSE",
-				image: "images/nitwcse.jpg",
+				projectName: "Generative Advarsarial Network (GAN)",
+				image: "images/GAN.png",
 				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
+					"Unsupervised representation of GAN based on MNIST dataset which is used to generate images from random noise.",
+				preview: "https://github.com/infinitemainul/CVPR/tree/main/Project",
+				techStack: ["Unsupervised Learning", "Python", "Tensorflow"],
 			},
 			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
+				projectName: "ASL Recognition",
+				image: "images/ASL.png",
 				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
+					"This project used VGG-16 model to recognize the ASL characters. Total parameters of the model is over 33.5 million.",
+				preview: "https://github.com/infinitemainul/CVPR/blob/main/Mid%20term%20programming%20assignment/PA_2.ipynb",
+				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+			},
+			{
+				projectName: "Natural Scenes",
+				image: "images/ResNet.png",
+				summary:
+					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
+				preview: "https://github.com/infinitemainul/CVPR/blob/main/M_4B_resnet50_natural_scenes.ipynb",
+				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
 			},
 		],
 		// freelance: [
@@ -176,6 +161,35 @@ export default {
 		// 	},
 		// ],
 	},
+
+	blogs: [
+			{
+				projectName: "A proposed design of a lecture material to reduce learning complexity", 
+				image: "images/ASL.png",
+				summary:
+					"This project used VGG-16 model to recognize the ASL characters. Total parameters of the model is over 33.5 million.",
+				preview: "https://github.com/infinitemainul/CVPR/blob/main/Mid%20term%20programming%20assignment/PA_2.ipynb",
+				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+			},
+			{
+				projectName: "A systematic literature review of Cognitive Load Theory (CLT) and Human-Computer Interaction (HCI)",
+				image: "images/ResNet.png",
+				summary:
+					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
+				preview: "https://github.com/infinitemainul/CVPR/blob/main/M_4B_resnet50_natural_scenes.ipynb",
+				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+			},
+			{
+				projectName: "An integrated approach of MCDM methods and Machine Learning algorithms For Employees’ churn prediction",
+				image: "images/ResNet.png",
+				summary:
+					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
+				preview: "https://github.com/infinitemainul/CVPR/blob/main/M_4B_resnet50_natural_scenes.ipynb",
+				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+			},
+			
+	],
+	
 	experience: [
 		{
 			title: "Internship.",
@@ -195,6 +209,7 @@ export default {
 			],
 			icon: "qrcode",
 		},
+		
 		// {
 		// 	title: "Novopay Solutions Pvt. Ltd.",
 		// 	duration: "June 2020 - April 2022",
