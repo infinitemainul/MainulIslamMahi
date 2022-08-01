@@ -165,27 +165,27 @@ export default {
 	blogs: [
 			{
 				projectName: "A proposed design of a lecture material to reduce learning complexity", 
-				image: "images/ASL.png",
+				image: "images/ACM.png",
 				summary:
 					"This project used VGG-16 model to recognize the ASL characters. Total parameters of the model is over 33.5 million.",
-				preview: "https://github.com/infinitemainul/CVPR/blob/main/Mid%20term%20programming%20assignment/PA_2.ipynb",
-				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+				preview: "https://doi.org/10.1145/3542954.3542986",
+				techStack: ["CLT", "HCI", "Cognitive Efficiency", "Mental Effort"],
 			},
 			{
 				projectName: "A systematic literature review of Cognitive Load Theory (CLT) and Human-Computer Interaction (HCI)",
-				image: "images/ResNet.png",
+				image: "images/ACM.png",
 				summary:
 					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
-				preview: "https://github.com/infinitemainul/CVPR/blob/main/M_4B_resnet50_natural_scenes.ipynb",
-				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+				preview: "",
+				techStack: ["CLT", "HCI", "Cognitive Efficiency", "Mental Effort"],
 			},
 			{
 				projectName: "An integrated approach of MCDM methods and Machine Learning algorithms For Employees’ churn prediction",
 				image: "images/ResNet.png",
 				summary:
 					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
-				preview: "https://github.com/infinitemainul/CVPR/blob/main/M_4B_resnet50_natural_scenes.ipynb",
-				techStack: ["Tensorflow", "Keras", "Coda", "Numpy", "Pandas"],
+				preview: "",
+				techStack: ["MCDM", "ML", "AHP", "TOPSIS", "KNN", "SVM"],
 			},
 			
 	],
