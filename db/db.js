@@ -143,11 +143,11 @@ export default {
 		],
 		// freelance: [
 		// 	{
-		// 		projectName: "SnylloAir.com",
-		// 		image: "images/snylloair.png",
+		// 		projectName: "abc.com",
+		// 		image: "images/.png",
 		// 		summary:
 		// 			"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-		// 		preview: "https://www.snylloair.com/",
+		// 		preview: "https://www.abc.com/",
 		// 		techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
 		// 	},
 		// 	{
@@ -156,8 +156,7 @@ export default {
 		// 		summary:
 		// 			"Android Application to display website in android devices.",
 		// 		preview:
-		// 			"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-		// 		techStack: ["Android", "JAVA", "Play Store"],
+		// 			"https://mainulislammahi.github.io: ["Android", "JAVA", "Play Store"],
 		// 	},
 		// ],
 	},
@@ -208,38 +207,9 @@ export default {
 				"MySQL",
 			],
 			icon: "qrcode",
+			// icon: "heartbeat"
+			// icon: "group"
 		},
-		
-		// {
-		// 	title: "Novopay Solutions Pvt. Ltd.",
-		// 	duration: "June 2020 - April 2022",
-		// 	subtitle: "Software Engineer",
-		// 	details: [
-		// 		"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-		// 		"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-		// 		"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
-		// 	],
-		// 	tags: [
-		// 		"JavaScript",
-		// 		"Angular",
-		// 		"React",
-		// 		"Bootstrap",
-		// 		"Nodejs",
-		// 		"Jenkins",
-		// 	],
-		// 	icon: "heartbeat",
-		// },
-		// {
-		// 	title: "ThinkPedia LLP",
-		// 	duration: "May 2019 - June 2019",
-		// 	subtitle: "SDE Intern",
-		// 	details: [
-		// 		"Worked as a full stack developer to support tech team.",
-		// 		"Developed a customer Web Application from scratch for social media management.",
-		// 	],
-		// 	tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-		// 	icon: "group",
-		// },
 	],
 	education: [
 		{
@@ -320,7 +290,7 @@ export default {
 				},
 				// {
 				// 	text: "Buy me a coffee",
-				// 	link: "https://www.buymeacoffee.com/r194dME8y",
+				// 	link: "https://www.buymeacoffee.com/abc",
 				// },
 			],
 		},
