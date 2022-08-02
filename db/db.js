@@ -167,23 +167,23 @@ export default {
 				projectName: "A proposed design of a lecture material to reduce learning complexity", 
 				image: "images/ACM.png",
 				summary:
-					"This project used VGG-16 model to recognize the ASL characters. Total parameters of the model is over 33.5 million.",
+					"Cognitive load of a lecture material is high due to the large number of complexities. This is a proposed design of a lecture material to reduce learning complexity with the help of HCI.",
 				preview: "https://doi.org/10.1145/3542954.3542986",
 				techStack: ["CLT", "HCI", "Cognitive Efficiency", "Mental Effort"],
 			},
 			{
 				projectName: "A systematic literature review of Cognitive Load Theory (CLT) and Human-Computer Interaction (HCI)",
-				image: "images/ACM.png",
+				image: "images/R2.png",
 				summary:
-					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
+					"Several research articles were selected using the PRISMA framework, which helps demonstrate the review's quality and aims to help authors improve the reporting of systematic reviews and meta-analyses.",
 				preview: "",
 				techStack: ["CLT", "HCI", "Cognitive Efficiency", "Mental Effort"],
 			},
 			{
 				projectName: "An integrated approach of MCDM methods and Machine Learning algorithms For Employees’ churn prediction",
-				image: "images/ResNet.png",
+				image: "images/R3.png",
 				summary:
-					"Intel image classification dataset used for classify the images into different categories. ResNet-50 architecture helped to achieved 82% accuracy.",
+					"An integrated system has been proposed to resolve the employee churn rate with the help of combining Multi-Criteria Decision Making (MCDM) and Machine Learning (ML) algorithms.",
 				preview: "",
 				techStack: ["MCDM", "ML", "AHP", "TOPSIS", "KNN", "SVM"],
 			},
@@ -279,7 +279,8 @@ export default {
 			icon: "book",
 		},
 	],
-	footer: [
+	footer: 
+	[
 		{
 			label: "Dev Profiles",
 			data: [				
@@ -326,8 +327,7 @@ export default {
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Mainul Islam Mahi.",
-				"&copy; No Copyrights. Feel free to use this template."
+				"&copy; Copyright 2022 Mainul Islam Mahi. All rights reserved."
 			],
 		},
 	],
