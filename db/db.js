@@ -239,13 +239,23 @@ export default {
 		},
 		{
 			title: "Higher Secondary",
-			duration: "",
+			duration: "June 2013 - August 2015",
 			subtitle: "Board of Intermediate and Secondary Education, Chattogram",
 			details: [
 				"Qualified for university entrence.",
 				"Secured GPA 4 out of 5.",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Physics", "Chemistry", "Mathematics", "Biology"],
+			icon: "book",
+		},
+		{
+			title: "Secondary",
+			duration: "January 2011 - May 2013",
+			subtitle: "Board of Intermediate and Secondary Education, Chattogram",
+			details: [
+				"Secured GPA 5 out of 5.",
+			],
+			tags: ["Physics", "Chemistry", "Mathematics", "Biology"],
 			icon: "book",
 		},
 	],
