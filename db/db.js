@@ -266,7 +266,7 @@ export default {
 			data: [				
 				{
 					text: "GitHub",
-					link: "https://github.com/infinitemainul",
+					link: "https://mainulimahi.github.io/",
 				},
 			],
 		},
