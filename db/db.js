@@ -171,7 +171,7 @@ export default {
 				techStack: ["CLT", "HCI", "Cognitive Efficiency", "Mental Effort"],
 			},
 			{
-				projectName: "A systematic literature review of Cognitive Load Theory (CLT) and Human-Computer Interaction (HCI). (Under Review)",
+				projectName: "A systematic literature review of Cognitive Load Theory (CLT) and Human-Computer Interaction (HCI). (Ongoing)",
 				image: "images/R2.png",
 				summary:
 					"Several research articles were selected using the PRISMA framework, which helps demonstrate the review's quality and aims to help authors improve the reporting of systematic reviews and meta-analyses.",
@@ -179,7 +179,7 @@ export default {
 				techStack: ["CLT", "HCI", "Cognitive Efficiency", "Mental Effort"],
 			},
 			{
-				projectName: "An integrated approach of MCDM methods and Machine Learning algorithms For Employees’ churn prediction. (Under Review)",
+				projectName: "An integrated approach of MCDM methods and Machine Learning algorithms For Employees’ churn prediction. (Ongoing)",
 				image: "images/R3.png",
 				summary:
 					"An integrated system has been proposed to resolve the employee churn rate with the help of combining Multi-Criteria Decision Making (MCDM) and Machine Learning (ML) algorithms.",
