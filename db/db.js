@@ -266,7 +266,7 @@ export default {
 			data: [				
 				{
 					text: "GitHub",
-					link: "https://mainulimahi.github.io/",
+					link: "https://github.com/mainulimahi",
 				},
 			],
 		},
@@ -296,7 +296,7 @@ export default {
 				},
 				{
 					text: "Twitter",
-					link: "https://twitter.com/infinitemainul",
+					link: "https://twitter.com/mainulimahi",
 				},
 				// {
 				// 	text: "Buy me a coffee",
